@@ -1,66 +1,47 @@
-👋 Hi, I'm Shivani Tiwari  
+👋 Hi, I'm Shivani Tiwari
+🚀 Software Engineer | Full Stack Developer | React • Spring Boot • REST APIs | 2+ Years Experience
 
-🚀 Blockchain Developer | Smart Contracts | Web3 Enthusiast  
+💡 Full Stack Developer with 2+ years of experience building scalable backend systems and responsive web applications. Skilled in Java, Python, Spring Boot, React.js, REST APIs, and PostgreSQL. Passionate about writing clean, efficient code and delivering production-ready solutions. Actively open to new opportunities.
 
-I’m a passionate fresher Blockchain Developer focused on building secure, efficient, and scalable decentralized applications.  
-I enjoy working with Ethereum, Solidity, Web3, and backend integrations, and I’m constantly learning new blockchain protocols and tooling.
+🔧 Tech Stack
 
-🔹 Interested in Smart Contracts, DeFi, NFTs, and Web3 Infrastructure  
-🔹 Strong foundation in blockchain fundamentals, cryptography, and backend systems  
-🔹 Open to internships, junior blockchain roles, and open-source contributions
+🚀 Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-📫 Reach me at - Email: shivanitiwarist12@gmail.com | LinkedIn: https://www.linkedin.com/in/shivani-tiwari-66ba141a6/
+⚙️ Backend  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-🧩 Tech Stack
+🎨 Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-🔗 Blockchain & Web3:
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs)
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge)
-![Truffle](https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge)
+🗄 Database  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-💻 Programming Languages:
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+🛠 Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-🗄 Backend & Databases:
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+💼 Experience Snapshot
 
-⚙ Tools & Platforms:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+‣ Built scalable Spring Boot backend services handling authentication, booking workflows, and API integrations
+‣ Developed React-based DeFi dashboards with wallet connectivity and real-time transaction data
+‣ Designed and optimized PostgreSQL database structures for high-performance applications
+‣ Implemented secure authentication & authorization using Spring Security
+‣ Worked in Agile development environments, delivering production-ready features through sprint cycles
 
-📌 Featured Projects
+📫 Open to Opportunities
 
-🔐 Smart Contract Voting System
-- Built secure voting logic using Solidity
-- Implemented role-based access and validation
-- Tested using Hardhat
+I am currently looking for new Full Stack / Software Engineer opportunities.
+If you're hiring or collaborating, feel free to connect.
 
-🏨 Hotel Management System 
-- Backend with Spring Boot & PostgreSQL
-- Secure authentication using Spring Security
-- Clean and responsive UI
-
-👉 Check repositories below for more projects 👇
-
-📊 GitHub Stats:
-
-![Hotel Management System](https://github.com/r2athena/Hotel-Management-System)
-
-![Music Player Application](https://github.com/r2athena/Mouzikka)
-
-🌱 Currently Learning
-- Advanced Solidity patterns
-- DeFi protocols & smart contract security
-- Layer 2 solutions & gas optimization
-
-🎯 2026 Goals
-- Contribute to open-source Web3 projects
-- Build real-world DeFi applications
-- Crack a blockchain developer role 🚀
+Email: shivanitiwarist12@gmail.com
