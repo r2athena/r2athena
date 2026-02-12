@@ -9,7 +9,7 @@ I specialize in developing real-time dashboards, financial/DeFi interfaces, and 
 
 💼 Currently open to Frontend / Software Developer opportunities
 
-📩 Email:shivanitiwarist12@gmail.com  
+📩 Email: shivanitiwarist12@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/shivani-tiwari-66ba141a6/  
 💻 GitHub: https://github.com/r2athena
 
@@ -49,11 +49,11 @@ I specialize in developing real-time dashboards, financial/DeFi interfaces, and 
 
 📌 Projects
 
-Mouzikka – Music Player  
+Mouzikka - Music Player  
 Python | Tkinter | MySQL  
 - Desktop music player with intuitive UI and song management features
 
-Jarvis – Virtual Assistant  
+Jarvis - Virtual Assistant  
 Python  
 - Voice-controlled desktop assistant for task automation and productivity
 
