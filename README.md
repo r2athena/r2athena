@@ -1,4 +1,5 @@
 👋 Hi, I'm Shivani Tiwari
+
 🚀 Software Engineer | Full Stack Developer | React • Spring Boot • REST APIs | 2+ Years Experience
 
 💡 Full Stack Developer with 2+ years of experience building scalable backend systems and responsive web applications. Skilled in Java, Python, Spring Boot, React.js, REST APIs, and PostgreSQL. Passionate about writing clean, efficient code and delivering production-ready solutions. Actively open to new opportunities.
