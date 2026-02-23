@@ -30,6 +30,7 @@ I specialize in developing real-time dashboards, financial/DeFi interfaces, and 
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
 
 🗄️ Database
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 🧰 Tools
