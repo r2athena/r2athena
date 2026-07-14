@@ -2,17 +2,17 @@
 <h3 align="center">Business Development Executive → Business Analyst | Web2 & Web3</h3>
 
 <p align="center">
+  <a href="shivanitiwarist12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/shivani-tiwari-66ba141a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="shivani.tiwari@syvora.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/r2athena"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 🧭 About Me
 
-- 🚀 Business Development Executive with **2+ years in B2B client engagement**, now transitioning into a **Business Analyst** role.
-- 🌐 Worked across **Web2 and Web3 services** — market research, outreach & pipeline tracking, sales-trend analysis, and client proposals.
-- 🧩 Comfortable bridging **technical and business teams**, backed by a **B.Tech in Computer Science**.
-- 📊 Currently leveling up in **SQL, Power BI**, and core BA process work — **BRD/FRD writing** and requirements gathering.
+- 🚀 Business Development Executive with 2+ years in B2B client engagement, now transitioning into a Business Analyst role.
+- 🌐 Worked across Web2 and Web3 services - market research, outreach & pipeline tracking, sales-trend analysis, and client proposals.
+- 🧩 Comfortable bridging technical and business teams, backed by a B.Tech in Computer Science.
+- 📊 Currently leveling up in SQL, Power BI, and core BA process work - BRD/FRD writing and requirements gathering.
 - 🤝 Mentored junior executives and collaborate closely with product, engineering, and marketing teams.
 
 🛠️ Skills & Tools
@@ -64,7 +64,7 @@ Business Development Executive - Syvora (Dec 2023 - Feb 2025)
 Analyst (A4), Intern - Capgemini (Jan 2023 – Jun 2023)
 - Gathered and documented requirements for client applications; turned stakeholder calls into structured requirement documents.
 - Built pivot tables and summary views for weekly status reviews; prepared process flows and user stories in an Agile setup.
-- Supported UAT — logged defects, tracked fixes, and kept documentation current.
+- Supported UAT - logged defects, tracked fixes, and kept documentation current.
 
 🚧 Projects
 
@@ -89,4 +89,4 @@ Python desktop music player built with Tkinter and MySQL - playback controls plu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=r2athena&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center"><i>Bridging business and engineering — one clear requirement at a time.</i></p>
+<p align="center"><i>Bridging business and engineering - one clear requirement at a time.</i></p>
