@@ -2,7 +2,7 @@
 <h3 align="center">Business Development Executive → Business Analyst | Web2 & Web3</h3>
 
 <p align="center">
-  <a href="shivanitiwarist12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:shivanitiwarist12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/shivani-tiwari-66ba141a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/r2athena"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
@@ -61,7 +61,7 @@ Business Development Executive - Syvora (Dec 2023 - Feb 2025)
 - Maintained client data and analysed weekly/quarterly sales trends in Excel.
 - Wrote business proposals, project costings, and pitch decks; ran client meetings and negotiations.
 
-Analyst (A4), Intern - Capgemini (Jan 2023 – Jun 2023)
+Analyst (A4), Intern - Capgemini (Jan 2023 - Jun 2023)
 - Gathered and documented requirements for client applications; turned stakeholder calls into structured requirement documents.
 - Built pivot tables and summary views for weekly status reviews; prepared process flows and user stories in an Agile setup.
 - Supported UAT - logged defects, tracked fixes, and kept documentation current.
@@ -77,8 +77,6 @@ Python desktop music player built with Tkinter and MySQL - playback controls plu
 🎓 Certifications
 
 📜 Postman API Fundamentals Student Expert - Postman
-
-📈 GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=r2athena&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
